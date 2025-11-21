@@ -20,7 +20,7 @@ DeepFace
 
 # How to Run
 
-pip install opencv-python
+pip install opencv-python  
 pip install deepface
 
 # Run the script:
