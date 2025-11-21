@@ -13,8 +13,8 @@ This project performs real-time emotion detection using your system’s camera. 
 
 
 # Tech Stack
-Python
-OpenCV
+Python  
+OpenCV  
 DeepFace
 
 
